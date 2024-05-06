@@ -152,7 +152,7 @@ def displayInsights(selectedInsight):
         st.write("Displaying data from the Four Lens Excel file:")
         
         #read file
-        df = pd.read_excel("4lenses.xlsx")
+        df = pd.read_excel("4Lenses.xlsx")
         st.dataframe(df)
 
         st.markdown("<h3 style='text-align:center; color:white; '>To filter Data, click on the desired column", unsafe_allow_html=True)
