@@ -1,0 +1,1 @@
+Sometimes, when the application is launched, it displays an error opening optional dependencies. It sometimes happens, however the data loads just fine 99% of the time. 
